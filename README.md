@@ -23,9 +23,7 @@ Two players take turns — **X** and **O** — and the game automatically detect
 ---
 
 ## 🧩 Demo Screenshot 
-> ![Game Screenshot](<img width="688" height="816" alt="Screenshot from 2025-10-06 18-51-12" src="https://github.com/user-attachments/assets/d7eff27c-5d80-4599-8db1-59715c797a06" />
-)
-
+> ![Game Screenshot](<img width="688" height="816" alt="Screenshot from 2025-10-06 18-51-12" src="https://github.com/user-attachments/assets/ec385b80-9cea-4e48-ab8b-8bd1a7055da9" />)
 ---
 
 ## 🛠️ Tech Stack
