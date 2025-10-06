@@ -37,7 +37,7 @@ Two players take turns — **X** and **O** — and the game automatically detect
 
 ### 1️⃣ Clone the project
 ```bash
-git clone https://github.com/your-username/benny-tic-tac-toe.git
+git clone https://github.com/soufianeljadi/Tic-tac-toe
 cd benny-tic-tac-toe
 ```
 
@@ -67,7 +67,7 @@ Now visit 👉 [http://localhost:3000](http://localhost:3000)
 **Soufiane El Jadi**  
 🎨 Digital Artist • 🧑‍💻 React Beginner • 🐾 Cat Dad  
 
-📫 Connect with me on [GitHub](https://github.com/your-username)
+📫 Connect with me on [GitHub](https://github.com/soufianeljadi)
 
 ---
 
